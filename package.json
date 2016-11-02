@@ -1,7 +1,7 @@
 {
   "name": "angular-payments",
   "description": "Directive for formatting and validating credit card forms",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "homepage": "https://github.com/laurihy/angular-payments",
   "author": {
     "name": "Lauri Hynynen",
@@ -15,7 +15,7 @@
   "main": "lib/angular-payments.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/laurihy/angular-payments.git"
+    "url": "git://github.com/opendoor-labs/angular-payments.git"
   },
   "licenses": [
     {
